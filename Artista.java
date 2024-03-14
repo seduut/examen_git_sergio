@@ -18,7 +18,7 @@ public class Artista {
         return nombreArtista;
 	//Comentario del apartado B
 	//Esto es un comentario
-	//Esto es otro comentario
+	//He cambiado este comentario, estoy en la rama master del otro
     }
     
 }
