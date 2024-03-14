@@ -12,7 +12,8 @@ package evf.javadoc.original;
 
 
     public void reproducirCancion(){
-        System.out.println("Reproduciendo la canción "+nombreCancion);
+        System.out.println("Reproduciendo la canción "+nombreCancion +
+			 "duracion");
     }
 
 
